@@ -1,2 +1,21 @@
-# Devops-projects
-A curated collection of DevOps-focused projects, scripts, and automation examples designed to demonstrate best practices in CI/CD, infrastructure as code, containerization, monitoring, and cloud deployment. Perfect for learners, enthusiasts, and professionals looking to enhance their DevOps skills through hands-on experience.
+# 📦 Terraform Azure Resource Group (CLI)
+
+This project demonstrates how to create an Azure Resource Group using **Terraform via CLI**.
+
+---
+
+## 🚀 Prerequisites
+
+Make sure you have the following installed:
+
+- Terraform  
+- Azure CLI  
+
+---
+
+## 🔐 Login to Azure
+
+Before running Terraform, authenticate with Azure:
+
+```bash
+az login
